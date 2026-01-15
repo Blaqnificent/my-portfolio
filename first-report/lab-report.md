@@ -30,7 +30,7 @@ git log --oneline
 - Git status shows a clean working tree
 
 ### Screenshot Placeholder
-- ![Screenshot showing `git log --oneline` with the initial commit](checkpoint-1)
+- ![Screenshot showing `git log --oneline` with the initial commit](checkpoint-1.png)
 
 ---
 
@@ -67,7 +67,7 @@ git log --graph --oneline
 - No merge conflicts occurred
 
 ### Screenshot Placeholder
-- ![Screenshot of `git log --graph --oneline` showing the merge](checkpoint-2)
+- ![Screenshot of `git log --graph --oneline` showing the merge](checkpoint-2.png)
 
 ---
 
@@ -121,8 +121,8 @@ git status
 - Repository returned to a clean state
 
 ### Screenshot Placeholders
-- ![Screenshot of README.md showing resolved conflict](checkpoint-3.1)
-- ![Screenshot of commit message resolving the merge conflict](checkpoint-3.2)
+- ![Screenshot of README.md showing resolved conflict](checkpoint-3.1.png)
+- ![Screenshot of commit message resolving the merge conflict](checkpoint-3.2.png)
 
 
 ---
@@ -160,8 +160,8 @@ git pull
 - Local repository synchronized with remote
 
 ### Screenshot Placeholders
-- ![Screenshot of GitHub pull request creation page](checkpoint-4.1)
-- ![Screenshot of merged pull request on GitHub](checkpoint-4.2)
+- ![Screenshot of GitHub pull request creation page](checkpoint-4.1.png)
+- ![Screenshot of merged pull request on GitHub](checkpoint-4.2.png)
 
 ---
 
